@@ -62,3 +62,5 @@ coverage/
 .turbo/
 .vercel/
 .netlify/
+.agent/
+.gemini/
