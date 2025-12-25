@@ -138,7 +138,7 @@ A huge thanks to the developers who made FitBot possible:
 | Contributor | Role | Socials |
 | :--- | :--- | :--- |
 | **Jawad Ali** | Lead Developer / AI Architect | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/JawadAliAI) |
-| **Rana Idrees** | Key Contributor / Full Stack Developer | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ranaidrees184) |
+| **Rana Idrees** | AI Architect / Key Contributor / Full Stack Developer | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ranaidrees184) |
 
 ---
 
